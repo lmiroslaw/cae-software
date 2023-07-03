@@ -1,10 +1,11 @@
 [![DOI](https://zenodo.org/badge/327603600.svg)](https://zenodo.org/badge/latestdoi/327603600)
 
-# Trends in atomistic simulation engines
+# Trends in Computer-Aided Engineering (CAE) simulation engines
 
-[atomistic.software](https://atomistic.software/#/) aims to track the citation trends of all major atomistic simulation engines.
+[CAE.software](https://tbd/#/) aims to track the citation trends of all major CAE simulation engines.
+It's a fork project from [atomistic.software](https://atomistic.software/#/) managed by [email to the author](mailto:leopold.talirz@gmail.com).
 
-This git repository contains the source code of the [atomistic.software](https://atomistic.software/#/) website.
+This git repository contains the source code of the [tbd](https://tbd/#/) website.
 
 ## Contributing
 
